@@ -1,0 +1,4 @@
+org/allo/Main.class
+org/allo/service/UserService.class
+org/allo/model/Test.class
+org/allo/model/Test$TestBuilder.class
