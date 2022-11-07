@@ -11,4 +11,6 @@ Para executar ambos os comandos corretamente, precisaremos realizar antes alguma
 Para isso na pasta assets há um exemplo de como deverá estar o arquivo de configuração settings.xml na pasta .m2.
 
 ### Ação 
-Após criar o projeto Maven e fazer as configurações e imports necessarios no arquivo pom.xml, basta execultar o "mvn deploy ". 
+Após criar o projeto Maven e fazer as configurações e imports necessarios no arquivo pom.xml, basta execultar o "mvn deploy ". Se tudo der certo, o .jar estará disponivel conforme a imagem abaixo.
+
+![nexus](https://user-images.githubusercontent.com/46751481/200331152-d601cf69-df29-4678-8c3e-baca4f3329e7.png) 
