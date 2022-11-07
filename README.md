@@ -1,5 +1,5 @@
 # maven-library
-Este é um exemplo da criação uma biblioteca maven e sua importação em um projeto Spring Boot.
+Este é um exemplo de criação de bibliotecas maven e sua importação em um projeto Spring Boot.
 
 ### Nexus
 O [Nexus](https://www.sonatype.com/products/nexus-repository) é um dos melhores e mais confiáveis repositórios de artefatos Maven disponível. Além de ser Open Source, o Nexus possui uma boa documentação, apresenta um bom nível de segurança e controle de acesso, e armazena os artefatos no sistema de arquivos, o que elimina muitas dores de cabeça. A configuração de um novo repositório Nexus é relativamente simples e mantendo as configurações default, já se consegue ter um repositório bastante eficiente por um bom tempo.
